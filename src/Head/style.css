@@ -1,0 +1,22 @@
+body{
+    width: 100%;
+    margin:0;
+    padding: 0;
+}
+
+.head {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    color:orangered;
+    margin-bottom: 1.3rem;
+}
+
+
+h1{
+    font-size: 2.2vw;
+}
+
+h3 {
+    font-size: 1.6vw;
+}

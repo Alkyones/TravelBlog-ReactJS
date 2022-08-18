@@ -1,0 +1,49 @@
+.trip--card {
+    width: 95%;
+    margin: 0 auto;
+    padding: 0 25px 0 0;
+    display: flex;
+    background-color: rgba(255, 228, 196, 0.166);
+    transition: all 0.6s;
+    
+}
+
+.trip--card:hover {
+    transform: scale(1.04);
+    background-color: rgba(255, 228, 196, 0.556);
+
+}
+
+
+h3{
+    color: orangered;
+}
+
+p {
+    font-size: 1.2vw;
+}
+
+.trip--img img {
+    width: 15vw;
+    height: auto;
+    border-radius: 0.33rem;
+    padding-right: 25px;
+}
+
+
+.trip--rate {
+    display: flex;
+    color: orangered;
+    font-size: 1.2vw;
+}
+
+.trip--location{
+    padding-top: 5px;
+    font-size: 1.2vw;
+
+}
+
+a {
+    text-decoration: none;
+    color: orangered;
+}
